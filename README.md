@@ -50,7 +50,7 @@ server=/*.163.com/119.29.29.29
 
 server=/*.126.com/119.29.29.29
 
-server=/*.126.net/119.29.29.29
+server=/*.126.net/119.29.29.2
 
 server=/*.127.net/119.29.29.29
 
@@ -59,7 +59,6 @@ server=/*.netease.com/119.29.29.29
 server=/*.mi.com/119.29.29.29
 
 server=/*.xiaomi.com/119.29.29.29
-
 address=/mtalk.google.com/108.177.125.188
 
 [http_backend] 
